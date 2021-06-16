@@ -1,0 +1,38 @@
+.imglogo {
+    background-image: url(/100.f79e1401.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.masthead {
+    margin-top: 2em;
+}
+
+.masthead-avatar {
+    border-radius: 15px;
+    border: 1px solid #2C3E50;
+}
+
+.masthead-heading, .masthead-subheading{
+    color: #2C3E50;
+    text-shadow: 0.5px 0.5px white;
+    font-weight: bold;
+}
+
+.name {
+    border: 2px solid #2C3E50;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: rgba(26, 188, 156, 0.7);
+}
+
+.divider-custom.divider-green .divider-custom-icon{
+    color: #212529;
+}
+
+.divider-custom.divider-green .divider-custom-line {
+    background-color: #212529;
+  }
+
+/*# sourceMappingURL=/custom.59417457.css.map */
